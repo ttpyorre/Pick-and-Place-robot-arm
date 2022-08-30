@@ -1,0 +1,5 @@
+# Ignored Files
+src/*~
+*.csv
+src/lab5/cameraCalibration.m
+src/lab5/cameraPictures
