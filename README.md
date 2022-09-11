@@ -2,7 +2,7 @@ Below in this README file, is the initial setup they had us do for the class. At
 
 This is the repository for the RBE3001 -- Unified Robotics III class. The final project is inside the lab5 folder. Due to rules in the RBE department, I was not able to save an original version of this repository, and made this one instead. The fork of the original has been deleted, as the original repository itself has been deleted to safe space for future classes. This also means that the commit history, as well as the branch history, has seemingly been deleted. Anyhow, the actual code remains.
 
-The final project for this class was to make a robotic arm be able to work with a camera, and pick up different colored balls and place them into different locations. Our team was very successfull at this task. We were able to map the balls by color, find them on the board, pick them up, and place them to the different locations. All the code was done in Matlab
+The final project for this class was to make a robotic arm be able to work with a camera, and pick up different colored balls and place them into different locations. Our team was very successfull at this task. We were able to map the balls by color, find them on the board, pick them up, and place them to the different locations. All the code was done in Matlab, in a team of 3.
 
 
 
