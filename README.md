@@ -1,4 +1,4 @@
-Below in this README file, is the initial setup they had us do for the class. At the beginning, I will explain a bit about this project.
+Below in this README file is the initial setup they had us do for the class. You can ignore that, I just like keeping it around to see what we did when I first started learning this stuff!
 
 This is the repository for the RBE3001 -- Unified Robotics III class. The final project is inside the lab5 folder. Due to rules in the RBE department, I was not able to save an original version of this repository, and made this one instead. The fork of the original has been deleted, as the original repository itself has been deleted to safe space for future classes. This also means that the commit history, as well as the branch history, has seemingly been deleted. Anyhow, the actual code remains.
 
